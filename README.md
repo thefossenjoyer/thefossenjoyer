@@ -9,6 +9,8 @@ You guessed it, I use ~~Arch~~ ![Manjaro](https://img.shields.io/badge/Manjaro-3
 
 And my main editor is your friendly ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefossenjoyer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to reach me?
 @thefossenjoyer on ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 @thefosslover#6471 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
