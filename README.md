@@ -13,5 +13,7 @@ And my main editor is your friendly ![Neovim](https://img.shields.io/badge/NeoVi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefossenjoyer&show_icons=true&theme=dracula)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thefossenjoyer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to reach me?
 @thefossenjoyer on ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
