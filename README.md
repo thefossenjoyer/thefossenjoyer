@@ -5,7 +5,7 @@ Am interested in app dev && backend web dev.
 
 I'm currently learning Lisp.
 
-You guessed it, I use EndeavourOS.
+You guessed it, I ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ~~Un~~Fortunatelly, I joined the Church of ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
